@@ -24,6 +24,7 @@ To setup the PyShop project, here is the following guidelines:
 * Visit New Arrival (Products) Page using <code>http://127.0.0.1:8000/products/new</code>
 * Wish to extend codebase/project? just say hi
 
+** While reading book "Django for APIs - Build Web API with Python"
 
 ## Contributing
 Thank you for considering contributing to this small python project! For contribution discuss, please email to Akinshola Samuel [akinsholasamuel@gmail.com](mailto:akinsholasamuel@gmail.com).
